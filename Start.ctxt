@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ start\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ start\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=width\ height
+comment3.target=Start(int,\ int)
+comment3.text=private\ void\ click()\ {\r\n\ \ \ \ \ \ \ \ if(Greenfoot.mouseClicked(this))\ {\r\n\ \ \ \ \ \ \ \ \ \ Greenfoot.setWorld(new\ MyWorld());\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ /*\ public\ Start()\ {\r\n\ \ \ \ \ \ \ \ setLocation(600,\ 200);\r\n\ \ \ \ \ \ \ \ setImage("images/Startscreen.png");\r\n\ \ \ \ \ \ \ \ GreenfootImage\ start\ \=\ new\ GreenfootImage\r\n}
+numComments=4

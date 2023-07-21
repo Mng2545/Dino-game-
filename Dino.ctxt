@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dino
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dinoo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ rock\ moves\ to\ destory\ cactus\ and\ disappers\ after\r\n\ rock\ moves\ to\ the\ right\ of\ the\ screen\ then\ disappers.\ If\ it\ hits\ cactus\r\n\ on\ the\ way\ it\ destorys\ the\ cactus\ then\ disappers\ \r\n
+comment2.params=
+comment2.target=Dino()
+comment3.params=
+comment3.target=boolean\ jumpButton()
+comment4.params=
+comment4.target=void\ shooting()
+comment5.params=
+comment5.target=void\ shoot()
+numComments=6
